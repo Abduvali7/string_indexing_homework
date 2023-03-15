@@ -6,4 +6,5 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    return s[len(s)//-5]
+print(main("asddf"))
