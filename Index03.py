@@ -7,4 +7,4 @@ def main(s):
         str: answer
     """
     return s[len(s)//-5]
-print(main("asddf"))
+print(main("asddf")) 
